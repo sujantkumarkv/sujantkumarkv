@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there 👋, < I'm **SUJANT** />
+#### < I love computers and sometimes they love me back. />
+< A fresher @NITKSurathkal,INDIA. I love open-source, AI/Machine Learning enthusiast and a constant learner. />
 
-<!--
-**sujantkumarkv/sujantkumarkv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: PYTHON / MACHINE LEARNING / HTML / CSS
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on ML project for **metal surface defect detection** 
+- 🌱 I’m currently learning **Machine Learning & Python** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sujantkumarkv)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sujant-kumar-krishnvanshi-b8061a168//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/sujantkumarkv)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujantkumarkv)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sujantkumarkv&show_icons=true&count_private=true)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sujantkumarkv)  
+
+![Profile views](https://gpvc.arturio.dev/sujantkumarkv)  
