@@ -6,7 +6,7 @@
 #### < I love computers and sometimes they love me back. />
 #### < I'm a fresher @NITKSurathkal,INDIA. I love open-source, am a AI/Machine Learning enthusiast and a constant learner. />
 
-### Skills: PYTHON / MACHINE LEARNING / HTML / CSS
+### Skills: PYTHON / MACHINE LEARNING / HTML / CSS / GOOGLE COLAB
 
 - 🔭 I’m currently working on ML project for **Metal surface defect detection** 
 - 🌱 I’m currently learning **Machine Learning & Python** 
