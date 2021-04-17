@@ -2,7 +2,6 @@
 # Hi there 👋, < I'm **SUJANT** />     
 <img src="https://github.com/sujantkumarkv/sujantkumarkv/blob/main/github%20mascot2.gif">
 
-***
 
 #### < I love computers and sometimes they love me back. />
 #### < I'm a fresher @NITKSurathkal,INDIA. I love open-source, am a AI/Machine Learning enthusiast and a constant learner. />
@@ -16,9 +15,7 @@
 
 ***
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujantkumarkv)](https://github.com/anuraghazra/github-readme-stats)
-***
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sujantkumarkv&show_icons=true&count_private=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujantkumarkv)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sujantkumarkv&show_icons=true&count_private=true)  
 ***
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sujantkumarkv)  
 ***
