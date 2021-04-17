@@ -1,3 +1,4 @@
+#![Profile views](https://gpvc.arturio.dev/sujantkumarkv)  
 ### Hi there 👋, < I'm **SUJANT** />
 #### < I love computers and sometimes they love me back. />
 < A fresher @NITKSurathkal,INDIA. I love open-source, AI/Machine Learning enthusiast and a constant learner. />
@@ -16,4 +17,4 @@ Skills: PYTHON / MACHINE LEARNING / HTML / CSS
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sujantkumarkv)  
 
-![Profile views](https://gpvc.arturio.dev/sujantkumarkv)  
+
