@@ -5,6 +5,9 @@
 #### < I love computers and sometimes they love me back. />
 #### < I'm a fresher @NITKSurathkal,INDIA. I love open-source, am a AI/Machine Learning enthusiast and a constant learner. />
 
+<img src="https://github.com/sujantkumarkv/sujantkumarkv/blob/main/images/stat.svg" alt="wakatime activity"/>
+Example: <img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity"/>
+
 ### Skills: PYTHON / MACHINE LEARNING / HTML / CSS / GOOGLE COLAB
 <img src="https://github.com/sujantkumarkv/sujantkumarkv/blob/main/ai%20ml%20logo%20mini.gif"> <img src="https://github.com/sujantkumarkv/sujantkumarkv/blob/main/python%20logo%20mini.png">
 - 🔭 I’m currently working on ML project for **Metal surface defect detection** 
