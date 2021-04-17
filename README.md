@@ -1,5 +1,6 @@
 ![Profile views](https://gpvc.arturio.dev/sujantkumarkv)  
-# Hi there 👋, < I'm **SUJANT** />     <img src="https://github.com/sujantkumarkv/sujantkumarkv/blob/main/github%20mascot2.gif">
+# Hi there 👋, < I'm **SUJANT** />     
+<img src="https://github.com/sujantkumarkv/sujantkumarkv/blob/main/github%20mascot2.gif">
 
 #### < I love computers and sometimes they love me back. />
 #### < I'm a fresher @NITKSurathkal,INDIA. I love open-source, am a AI/Machine Learning enthusiast and a constant learner. />
