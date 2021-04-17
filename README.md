@@ -5,7 +5,7 @@
 
 ### Skills: PYTHON / MACHINE LEARNING / HTML / CSS
 
-- 🔭 I’m currently working on ML project for **metal surface defect detection** 
+- 🔭 I’m currently working on ML project for **Metal surface defect detection** 
 - 🌱 I’m currently learning **Machine Learning & Python** 
 
 
