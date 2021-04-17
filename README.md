@@ -15,9 +15,9 @@
 
 ***
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujantkumarkv)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sujantkumarkv&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sujantkumarkv&show_icons=true&count_private=true)  
 ***
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sujantkumarkv)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sujantkumarkv)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujantkumarkv)](https://github.com/anuraghazra/github-readme-stats)
 ***
 **Connect with me ::**
 
