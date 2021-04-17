@@ -4,7 +4,7 @@
  
 
 #### < I love computers and sometimes they love me back. />
-#### < I'm a fresher @NITKSurathkal,INDIA. I love open-source, AI/Machine Learning enthusiast and a constant learner. />
+#### < I'm a fresher @NITKSurathkal,INDIA. I love open-source, am a AI/Machine Learning enthusiast and a constant learner. />
 
 ### Skills: PYTHON / MACHINE LEARNING / HTML / CSS
 
