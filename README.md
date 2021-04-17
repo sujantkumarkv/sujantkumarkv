@@ -1,12 +1,12 @@
 ![Profile views](https://gpvc.arturio.dev/sujantkumarkv)  
 # Hi there 👋, < I'm **SUJANT** />     
-<img src="https://github.com/sujantkumarkv/sujantkumarkv/blob/main/github%20mascot.gif">
+
 
 #### < I love computers and sometimes they love me back. />
 #### < I'm a fresher @NITKSurathkal,INDIA. I love open-source, am a AI/Machine Learning enthusiast and a constant learner. />
 
 ### Skills: PYTHON / MACHINE LEARNING / HTML / CSS / GOOGLE COLAB
-
+<img src="https://github.com/sujantkumarkv/sujantkumarkv/blob/main/python%20logo.gif">
 - 🔭 I’m currently working on ML project for **Metal surface defect detection** 
 - 🌱 I’m currently learning **Machine Learning & Python** 
 
