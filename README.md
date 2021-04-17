@@ -1,6 +1,6 @@
-#![Profile views](https://gpvc.arturio.dev/sujantkumarkv)  
-### Hi there 👋, < I'm **SUJANT** />
-#### < I love computers and sometimes they love me back. />
+![Profile views](https://gpvc.arturio.dev/sujantkumarkv)  
+# Hi there 👋, < I'm **SUJANT** />
+### < I love computers and sometimes they love me back. />
 < A fresher @NITKSurathkal,INDIA. I love open-source, AI/Machine Learning enthusiast and a constant learner. />
 
 Skills: PYTHON / MACHINE LEARNING / HTML / CSS
