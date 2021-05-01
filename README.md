@@ -7,8 +7,8 @@
 #### < I'm a fresher @NITKSurathkal,INDIA. I love open-source, am a AI/Machine Learning enthusiast and a constant learner. />
 
 ***
+ ## **LAST 7 DAYS' CODING ACTIVITY**
 <p align= "center">
- ## LAST 7 DAYS' CODING ACTIVITY
  
  <img src="https://wakatime.com/share/@e0c37b93-0cef-44ae-bf65-8edc9d06ca70/a8258fb4-6d68-436e-8213-e69371bece35.svg" height='401'>
 </p>
