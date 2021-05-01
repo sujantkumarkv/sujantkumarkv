@@ -7,7 +7,9 @@
 #### < I'm a fresher @NITKSurathkal,INDIA. I love open-source, am a AI/Machine Learning enthusiast and a constant learner. />
 
 ***
-<img src="https://wakatime.com/share/@e0c37b93-0cef-44ae-bf65-8edc9d06ca70/935855d5-78f7-42b4-a4d3-d7e5efb6f83f.svg" height='501' align='center'>
+<p align= "center">
+ <img src="https://wakatime.com/share/@e0c37b93-0cef-44ae-bf65-8edc9d06ca70/935855d5-78f7-42b4-a4d3-d7e5efb6f83f.svg" height='401'>
+</p>
 
 ***
 ### Skills: PYTHON / MACHINE LEARNING / HTML / CSS / GOOGLE COLAB
