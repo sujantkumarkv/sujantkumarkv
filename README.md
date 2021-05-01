@@ -7,9 +7,9 @@
 #### < I'm a fresher @NITKSurathkal,INDIA. I love open-source, am a AI/Machine Learning enthusiast and a constant learner. />
 
 ***
+<img src="https://wakatime.com/share/@e0c37b93-0cef-44ae-bf65-8edc9d06ca70/935855d5-78f7-42b4-a4d3-d7e5efb6f83f.svg">
 
-<figure><embed src="https://wakatime.com/share/@e0c37b93-0cef-44ae-bf65-8edc9d06ca70/935855d5-78f7-42b4-a4d3-d7e5efb6f83f.svg"></embed></figure>
-
+***
 ### Skills: PYTHON / MACHINE LEARNING / HTML / CSS / GOOGLE COLAB
 <img src="https://github.com/sujantkumarkv/sujantkumarkv/blob/main/ai%20ml%20logo%20mini.gif"> <img src="https://github.com/sujantkumarkv/sujantkumarkv/blob/main/python%20logo%20mini.png">
 - 🔭 I’m currently working on ML project for **Metal surface defect detection** 
