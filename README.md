@@ -8,6 +8,8 @@
 
 ***
 
+<figure><embed src="https://wakatime.com/share/@e0c37b93-0cef-44ae-bf65-8edc9d06ca70/935855d5-78f7-42b4-a4d3-d7e5efb6f83f.svg"></embed></figure>
+
 ### Skills: PYTHON / MACHINE LEARNING / HTML / CSS / GOOGLE COLAB
 <img src="https://github.com/sujantkumarkv/sujantkumarkv/blob/main/ai%20ml%20logo%20mini.gif"> <img src="https://github.com/sujantkumarkv/sujantkumarkv/blob/main/python%20logo%20mini.png">
 - 🔭 I’m currently working on ML project for **Metal surface defect detection** 
@@ -21,5 +23,6 @@
 ***
 
   **Connect with me ::**
-    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sujantkumarkv)  [<img        src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sujant-kumar-krishnvanshi-b8061a168//) [<img    src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/sujantkumarkv) 
+  
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sujantkumarkv)  [<img        src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sujant-kumar-krishnvanshi-b8061a168//) [<img    src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/sujantkumarkv) 
 
