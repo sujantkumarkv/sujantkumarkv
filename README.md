@@ -1,4 +1,4 @@
-![Profile views](https://gpvc.arturio.dev/sujantkumarkv)  
+![Profile views](https://gpvc.arturio.dev/)  
 # Hi there 👋, < I'm **SUJANT** />     
 <img src="https://github.com/sujantkumarkv/sujantkumarkv/blob/main/github%20mascot2.gif">
 
