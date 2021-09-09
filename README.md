@@ -7,12 +7,11 @@
 #### < I'm a sophomore @NITKSurathkal,INDIA. I love the open-source spirit, am a BLOCKCHAIN, AI/ML enthusiast and a constant learner. />
 
 ***
- ## **LAST 30 DAYS' CODING ACTIVITY**
+ ## **LAST 7 DAYS' CODING ACTIVITY**
 <p align= "center">
  
- <img src="https://wakatime.com/share/@e0c37b93-0cef-44ae-bf65-8edc9d06ca70/5a50216a-19ac-4f75-801d-704369108afb.svg" height='401'>
+ <img src="https://wakatime.com/share/@e0c37b93-0cef-44ae-bf65-8edc9d06ca70/8e290768-879b-4aba-b7b6-e1b171fd03e9.svg" height='401'>
 </p>
-
 
 ***
 ### Skills: PYTHON / MACHINE LEARNING / HTML / CSS / GOOGLE COLAB
