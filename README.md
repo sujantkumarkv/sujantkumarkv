@@ -14,10 +14,10 @@
 </p>
 
 ***
-### Skills: PYTHON / MACHINE LEARNING / HTML / CSS / GOOGLE COLAB
+### Skills: PYTHON & FLASK / BLOCKCHAIN / ML with python / JAVSCRIPT , NODEJS
 <img src="https://github.com/sujantkumarkv/sujantkumarkv/blob/main/ai%20ml%20logo%20mini.gif"> <img src="https://github.com/sujantkumarkv/sujantkumarkv/blob/main/python%20logo%20mini.png">
-- 🔭 I’m currently working on ML project for **Metal surface defect detection** 
-- 🌱 I’m currently learning **Machine Learning & Python** 
+- 🔭 I did a ML college project, lazy to complete it enough to deploy (would do it soon). 
+- 🌱 I’m currently exploring BLOCKCHAIN as it's pretty interesting imo. 
 
 ***
 
