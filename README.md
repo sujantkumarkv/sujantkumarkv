@@ -18,7 +18,7 @@
 <img src="https://github.com/sujantkumarkv/sujantkumarkv/blob/main/ai%20ml%20logo%20mini.gif"> <img src="https://github.com/sujantkumarkv/sujantkumarkv/blob/main/python%20logo%20mini.png"> <img src="https://github.com/sujantkumarkv/sujantkumarkv/blob/main/js%20img.png">
 - 🔭 I did a ML college project, lazy to complete it enough to deploy (would do it soon). 
 - 🌱 I’m currently exploring BLOCKCHAIN as it's pretty interesting imo. 
-<img src="https://github.com/sujantkumarkv/sujantkumarkv/blob/main/doge%20gif.gif"> <img src="https://github.com/sujantkumarkv/sujantkumarkv/blob/main/eth%20gif.gif"> <img src="https://github.com/sujantkumarkv/sujantkumarkv/blob/main/btc%20gif%202.gif">
+- <img src="https://github.com/sujantkumarkv/sujantkumarkv/blob/main/doge%20gif.gif"> <img src="https://github.com/sujantkumarkv/sujantkumarkv/blob/main/eth%20gif.gif"> <img src="https://github.com/sujantkumarkv/sujantkumarkv/blob/main/btc%20gif%202.gif">
 
 ***
 
