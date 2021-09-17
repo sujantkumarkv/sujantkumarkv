@@ -15,9 +15,10 @@
 
 ***
 ### Skills: PYTHON & FLASK / BLOCKCHAIN / ML with python / JAVSCRIPT , NODEJS
-<img src="https://github.com/sujantkumarkv/sujantkumarkv/blob/main/ai%20ml%20logo%20mini.gif"> <img src="https://github.com/sujantkumarkv/sujantkumarkv/blob/main/python%20logo%20mini.png">
+<img src="https://github.com/sujantkumarkv/sujantkumarkv/blob/main/ai%20ml%20logo%20mini.gif"> <img src="https://github.com/sujantkumarkv/sujantkumarkv/blob/main/python%20logo%20mini.png"> <img src="https://github.com/sujantkumarkv/sujantkumarkv/blob/main/js%20gif.gif">
 - 🔭 I did a ML college project, lazy to complete it enough to deploy (would do it soon). 
 - 🌱 I’m currently exploring BLOCKCHAIN as it's pretty interesting imo. 
+- <img src="https://github.com/sujantkumarkv/sujantkumarkv/blob/main/doge%20gif.gif"> <img src="https://github.com/sujantkumarkv/sujantkumarkv/blob/main/bc.gif">
 
 ***
 
