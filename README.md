@@ -11,7 +11,7 @@ I worked with gitcoinDAO building a DAO tool displaying DAO health stats for tra
 
 I built a fun project [Anime3](https://anime3-upvote.vercel.app/) for Anime **X** Web3 folks where one can upvote their favorite anime & make it top ranked there, data is stored as transactions on goerli testnet, code [here](https://github.com/sujantkumarkv/anime3).
 
-I love open-source as a culture, and contribute myself too. It's hard to get started so I twitch stream myself learning, coding & contributing to open-source hoping maybe it helps someone :)
+I love open-source as a culture, and contribute myself too. It's hard for folks to get started, thinking maybe it helps someone :) I started twitch streaming myself learning, coding & contributing to open-source.
 
 Find me [here](https://twitch.tv/sujantkv).
 <br></br>
