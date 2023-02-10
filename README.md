@@ -1,34 +1,32 @@
 ![Profile views](https://gpvc.arturio.dev/sujantkumarkv)  
-# Hi there 👋, < I'm **SUJANT** />     
+# < Konnichiwa /> 👋    
 <img src="https://github.com/sujantkumarkv/sujantkumarkv/blob/main/github%20mascot2.gif">
 
+<br></br>
+I'm **Sujant**, an engineering undergrad from India. I ❤️ computers and sometimes they love me back.
 
-#### < I ❤️ computers and sometimes they love me back. />
-#### < I'm a sophomore @NITKSurathkal,INDIA. I love the open-source spirit, am a BLOCKCHAIN, AI/ML enthusiast and a constant learner. />
 
-***
- ## **LAST 7 DAYS' CODING ACTIVITY**
-<p align= "center">
- 
- <img src="https://wakatime.com/share/@e0c37b93-0cef-44ae-bf65-8edc9d06ca70/8e290768-879b-4aba-b7b6-e1b171fd03e9.svg" height='401'>
-</p>
+I participated in EthCC Paris'22 hackathon with a team building a mock decentralized 3D maps & won a prize, look [here](https://devpost.com/software/web3d).
 
-***
-### Skills: PYTHON & FLASK / BLOCKCHAIN / ML with python / JAVSCRIPT , NODEJS
-<img src="https://github.com/sujantkumarkv/sujantkumarkv/blob/main/ai%20ml%20logo%20mini.gif"> <img src="https://github.com/sujantkumarkv/sujantkumarkv/blob/main/python%20logo%20mini.png"> <img src="https://github.com/sujantkumarkv/sujantkumarkv/blob/main/js%20img.png">
-- 🔭 I did a ML college project, lazy to complete it enough to deploy (would do it soon). 
-- 🌱 Internet was a sweet invention. Many lovely people say BLOCKCHAIN TECH is gonna be as sweet as well. Just recently got into exploring this sweet stuff ;)
+I worked with gitcoinDAO building a DAO tool displaying DAO health stats for transparency, find [here](https://daostewards.xyz).
 
-- <img src="https://github.com/sujantkumarkv/sujantkumarkv/blob/main/dogecoin%20gif.gif"> <img src="https://github.com/sujantkumarkv/sujantkumarkv/blob/main/eth%20gif.gif"> <img src="https://github.com/sujantkumarkv/sujantkumarkv/blob/main/btc%20gif%202.gif">
+I built a fun project [Anime3](https://anime3-upvote.vercel.app/) for Anime **X** Web3 folks where one can upvote their favorite anime & make it top ranked there, data is stored as transactions on goerli testnet, code [here](https://github.com/sujantkumarkv/anime3).
+
+I love open-source as a culture, and contribute myself too. It's hard to get started so I twitch stream myself learning, coding & contributing to open-source hoping maybe it helps someone :)
+
+Find me [here](https://twitch.tv/sujantkv).
+<br></br>
+
+[![Watch the video](https://img.youtube.com/vi/8pm1wCX7oQs/mqdefault.jpg)](https://clips.twitch.tv/InspiringTastyDragonfruitBIRB-4eSAz81kz_U5hgko) [![Watch the video](https://img.youtube.com/vi/yuNioXe-wtU/mqdefault.jpg)](https://clips.twitch.tv/FuriousExpensiveOrangeLitFam-rgXFJyDdMQrmknbX)
 
 ***
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sujantkumarkv&show_icons=true&count_private=true)  
-***
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sujantkumarkv)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujantkumarkv)](https://github.com/anuraghazra/github-readme-stats)
+
 ***
 
- ## **Connect with me ::**
-  
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sujantkumarkv)  [<img        src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sujant-kumar-krishnvanshi-b8061a168//) [<img    src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/sujantkumarkv) 
+## **Let's Talk !**
+
+[![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_diogorodrigues)](https://twitter.com/sujantkumarkv) [![Twitch](https://img.shields.io/badge/-Twitch-purple?style=flat-square&logo=Twitch&logoColor=white&link=https://twitch.tv/sujantkv)](https://twitch.tv/sujantkv) [![Youtube](https://img.shields.io/badge/-youtube-red?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCxaYz4YlvAQrfyrSKudMS7Q)](https://www.youtube.com/channel/UCxaYz4YlvAQrfyrSKudMS7Q) [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sujant-kumar-krishnvanshi-b8061a168/)](https://www.linkedin.com/in/sujant-kumar-krishnvanshi-b8061a168/)  
+
 
