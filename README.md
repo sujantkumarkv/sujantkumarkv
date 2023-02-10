@@ -16,8 +16,7 @@ I love open-source as a culture, and contribute myself too. It's hard to get sta
 Find me [here](https://twitch.tv/sujantkv).
 <br></br>
 
-[![Watch the video](https://img.youtube.com/vi/8pm1wCX7oQs/mqdefault.jpg)](https://clips.twitch.tv/InspiringTastyDragonfruitBIRB-4eSAz81kz_U5hgko) [![Watch the video](https://img.youtube.com/vi/yuNioXe-wtU/mqdefault.jpg)](https://clips.twitch.tv/FuriousExpensiveOrangeLitFam-rgXFJyDdMQrmknbX)
-
+[![Watch the video](https://img.youtube.com/vi/yuNioXe-wtU/mqdefault.jpg)](https://www.youtube.com/watch?v=yuNioXe-wtU) [![Watch the video](https://img.youtube.com/vi/8pm1wCX7oQs/mqdefault.jpg)](https://www.youtube.com/watch?v=8pm1wCX7oQs) 
 ***
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sujantkumarkv&show_icons=true&count_private=true)  
