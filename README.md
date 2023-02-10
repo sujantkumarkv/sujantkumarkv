@@ -1,8 +1,7 @@
-![Profile views](https://gpvc.arturio.dev/sujantkumarkv)  
+![](https://komarev.com/ghpvc/?username=sujantkumarkv)
 # < Konnichiwa /> 👋    
 <img src="https://github.com/sujantkumarkv/sujantkumarkv/blob/main/github%20mascot2.gif">
 
-<br></br>
 I'm **Sujant**, an engineering undergrad from India. I ❤️ computers and sometimes they love me back.
 
 
