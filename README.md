@@ -17,14 +17,13 @@ Find me [here](https://twitch.tv/sujantkv).
 <br></br>
 
 [![Watch the video](https://img.youtube.com/vi/yuNioXe-wtU/mqdefault.jpg)](https://www.youtube.com/watch?v=yuNioXe-wtU) [![Watch the video](https://img.youtube.com/vi/8pm1wCX7oQs/mqdefault.jpg)](https://www.youtube.com/watch?v=8pm1wCX7oQs) 
-***
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sujantkumarkv&show_icons=true&count_private=true)  
 
 ***
 
-## **Let's Talk !**
-
+### **Let's Talk !**
 [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_diogorodrigues)](https://twitter.com/sujantkumarkv) [![Twitch](https://img.shields.io/badge/-Twitch-purple?style=flat-square&logo=Twitch&logoColor=white&link=https://twitch.tv/sujantkv)](https://twitch.tv/sujantkv) [![Youtube](https://img.shields.io/badge/-youtube-red?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCxaYz4YlvAQrfyrSKudMS7Q)](https://www.youtube.com/channel/UCxaYz4YlvAQrfyrSKudMS7Q) [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sujant-kumar-krishnvanshi-b8061a168/)](https://www.linkedin.com/in/sujant-kumar-krishnvanshi-b8061a168/)  
 
 
