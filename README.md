@@ -2,28 +2,17 @@
 # < Konnichiwa /> 👋    
 <img src="https://github.com/sujantkumarkv/sujantkumarkv/blob/main/github%20mascot2.gif">
 
-I'm **Sujant**, an engineering undergrad from India. I ❤️ computers and sometimes they love me back.
+I'm Sujant 🇮🇳 and I love computers.
 
+I'm driven by my curiosity, the ambition to do great work and be useful to the world with technology.
 
-I participated in EthCC Paris'22 hackathon with a team building a mock decentralized 3D maps & won a prize, look [here](https://devpost.com/software/web3d).
+I hate remaining a mid (though i am rn), I'll push myself to becoming one of the best.
 
-I worked with gitcoinDAO building a DAO tool displaying DAO health stats for transparency, find [here](https://daostewards.xyz).
+I dive deep into what strikes my interest, Bitcoin is goated leading me to blockhains (pretty cool) and I did some work: participated & won a prize in EthCC'22 Paris hackathon, worked at gitcoin building a DAO tool, read ton of papers & it was fun.
 
-I built a fun project [Anime3](https://anime3-upvote.vercel.app/) for Anime **X** Web3 folks where one can upvote their favorite anime & make it top ranked there, data is stored as transactions on goerli testnet, code [here](https://github.com/sujantkumarkv/anime3).
+I did some CV in 2020 but wasn't moved (i was dumb), I'm working on deep learning, NLP, LLMs, VLMs etc and I will build something great here... so fumk your react codebase, jira tickets & strategy meetings, I wanna work on technology that can ACCELERATE this era of humanity forward: e/acc (iykyk)
 
-I love open-source as a culture, and contribute myself too. It's hard for folks to get started,so I started twitch streaming myself learning, coding & contributing to open-source hoping it helps others :) 
+Aside, I'm a dharmic culture enjooyer, an avid anime fan wanting to usher to a techno-dharmic yug-cybera future.
 
-Find me [here](https://twitch.tv/sujantkv).
-<br></br>
-
-[![Watch the video](https://img.youtube.com/vi/yuNioXe-wtU/mqdefault.jpg)](https://www.youtube.com/watch?v=yuNioXe-wtU) [![Watch the video](https://img.youtube.com/vi/8pm1wCX7oQs/mqdefault.jpg)](https://www.youtube.com/watch?v=8pm1wCX7oQs) 
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sujantkumarkv&show_icons=true&count_private=true)  
-
-***
-
-### **Let's Talk !**
-[![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_diogorodrigues)](https://twitter.com/sujantkumarkv) [![Twitch](https://img.shields.io/badge/-Twitch-purple?style=flat-square&logo=Twitch&logoColor=white&link=https://twitch.tv/sujantkv)](https://twitch.tv/sujantkv) [![Youtube](https://img.shields.io/badge/-youtube-red?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCxaYz4YlvAQrfyrSKudMS7Q)](https://www.youtube.com/channel/UCxaYz4YlvAQrfyrSKudMS7Q) [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sujant-kumar-krishnvanshi-b8061a168/)](https://www.linkedin.com/in/sujant-kumar-krishnvanshi-b8061a168/)  
-
-
+#### Let's Talk
+[![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_diogorodrigues)](https://twitter.com/sujantkumarkv)
