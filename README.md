@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=sujantkumarkv)
-# < Konnichiwa /> 👋    
+### < Konnichiwa /> 👋    
 <img src="https://github.com/sujantkumarkv/sujantkumarkv/blob/main/github%20mascot2.gif">
 
 I'm Sujant 🇮🇳 and I love computers.
